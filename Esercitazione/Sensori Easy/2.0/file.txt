@@ -1,0 +1,54 @@
+Allarme dal Sensore: 1, Temperatura: 42, umidità: 48, qualità dell'aria: 10
+
+Allarme dal Sensore: 1, Temperatura: 33, umidità: 7, qualità dell'aria: 31
+
+Allarme dal Sensore: 1, Temperatura: 45, umidità: 59, qualità dell'aria: 10
+
+Allarme dal Sensore: 1, Temperatura: 49, umidità: 42, qualità dell'aria: 82
+
+Allarme dal Sensore: 1, Temperatura: 42, umidità: 38, qualità dell'aria: 50
+
+Allarme dal Sensore: 1, Temperatura: 28, umidità: 36, qualità dell'aria: 76
+
+Allarme dal Sensore: 1, Temperatura: 25, umidità: 45, qualità dell'aria: 87
+
+Allarme dal Sensore: 1, Temperatura: 34, umidità: 57, qualità dell'aria: 43
+
+Allarme dal Sensore: 1, Temperatura: 32, umidità: 59, qualità dell'aria: 21
+
+Allarme dal Sensore: 1, Temperatura: 33, umidità: 50, qualità dell'aria: 7
+
+Allarme dal Sensore: 1, Temperatura: 32, umidità: 51, qualità dell'aria: 49
+
+Allarme dal Sensore: 1, Temperatura: 47, umidità: 83, qualità dell'aria: 12
+
+Allarme dal Sensore: 1, Temperatura: 44, umidità: 46, qualità dell'aria: 38
+
+Allarme dal Sensore: 1, Temperatura: 31, umidità: 33, qualità dell'aria: 5
+
+Allarme dal Sensore: 1, Temperatura: 48, umidità: 70, qualità dell'aria: 17
+
+Allarme dal Sensore: 1, Temperatura: 5, umidità: 26, qualità dell'aria: 71
+
+Allarme dal Sensore: 2, Temperatura: 38, umidità: 63, qualità dell'aria: 15
+
+Allarme dal Sensore: 1, Temperatura: 41, umidità: 54, qualità dell'aria: 30
+
+Allarme dal Sensore: 2, Temperatura: 36, umidità: 59, qualità dell'aria: 86
+
+Allarme dal Sensore: 1, Temperatura: 11, umidità: 8, qualità dell'aria: 68
+
+Allarme dal Sensore: 2, Temperatura: 33, umidità: 21, qualità dell'aria: 29
+
+Allarme dal Sensore: 1, Temperatura: 49, umidità: 1, qualità dell'aria: 19
+
+Allarme dal Sensore: 2, Temperatura: 11, umidità: 1, qualità dell'aria: 73
+
+Allarme dal Sensore: 1, Temperatura: 48, umidità: 0, qualità dell'aria: 95
+
+Allarme dal Sensore: 2, Temperatura: 45, umidità: 40, qualità dell'aria: 44
+
+Allarme dal Sensore: 1, Temperatura: 3, umidità: 81, qualità dell'aria: 87
+
+Allarme dal Sensore: 2, Temperatura: 35, umidità: 85, qualità dell'aria: 60
+

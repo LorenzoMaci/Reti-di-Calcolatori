@@ -1,0 +1,364 @@
+
+
+Allarme - Sensore: 1, Temperatura: 22, Umidità: 30, Qualità dell'aria: 98
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 3, Qualità dell'aria: 6
+
+Allarme - Sensore: 1, Temperatura: 22, Umidità: 61, Qualità dell'aria: 97
+
+Allarme - Sensore: 1, Temperatura: 2, Umidità: 67, Qualità dell'aria: 84
+
+Allarme - Sensore: 1, Temperatura: 15, Umidità: 13, Qualità dell'aria: 98
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 7, Qualità dell'aria: 6
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 3, Qualità dell'aria: 0
+
+Allarme - Sensore: 1, Temperatura: 4, Umidità: 67, Qualità dell'aria: 78
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 38, Qualità dell'aria: 46
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 50, Qualità dell'aria: 4
+
+Allarme - Sensore: 1, Temperatura: 47, Umidità: 78, Qualità dell'aria: 85
+
+Allarme - Sensore: 1, Temperatura: 4, Umidità: 87, Qualità dell'aria: 75
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 96, Qualità dell'aria: 91
+
+Allarme - Sensore: 1, Temperatura: 49, Umidità: 77, Qualità dell'aria: 69
+
+Allarme - Sensore: 1, Temperatura: 31, Umidità: 52, Qualità dell'aria: 2
+
+Allarme - Sensore: 1, Temperatura: 22, Umidità: 68, Qualità dell'aria: 72
+
+Allarme - Sensore: 1, Temperatura: 7, Umidità: 71, Qualità dell'aria: 65
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 93, Qualità dell'aria: 81
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 42, Qualità dell'aria: 59
+
+Allarme - Sensore: 1, Temperatura: 45, Umidità: 38, Qualità dell'aria: 88
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 54, Qualità dell'aria: 9
+
+Allarme - Sensore: 1, Temperatura: 48, Umidità: 66, Qualità dell'aria: 63
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 85, Qualità dell'aria: 74
+
+Allarme - Sensore: 1, Temperatura: 27, Umidità: 79, Qualità dell'aria: 67
+
+Allarme - Sensore: 1, Temperatura: 19, Umidità: 23, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 32, Qualità dell'aria: 88
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 85, Qualità dell'aria: 54
+
+Allarme - Sensore: 1, Temperatura: 43, Umidità: 0, Qualità dell'aria: 91
+
+Allarme - Sensore: 1, Temperatura: 30, Umidità: 79, Qualità dell'aria: 48
+
+Allarme - Sensore: 1, Temperatura: 38, Umidità: 38, Qualità dell'aria: 67
+
+Allarme - Sensore: 1, Temperatura: 30, Umidità: 20, Qualità dell'aria: 52
+
+Allarme - Sensore: 1, Temperatura: 18, Umidità: 5, Qualità dell'aria: 89
+
+Allarme - Sensore: 1, Temperatura: 24, Umidità: 10, Qualità dell'aria: 70
+
+Allarme - Sensore: 1, Temperatura: 20, Umidità: 58, Qualità dell'aria: 75
+
+Allarme - Sensore: 1, Temperatura: 48, Umidità: 91, Qualità dell'aria: 51
+
+Allarme - Sensore: 1, Temperatura: 42, Umidità: 81, Qualità dell'aria: 89
+
+Allarme - Sensore: 1, Temperatura: 7, Umidità: 7, Qualità dell'aria: 81
+
+Allarme - Sensore: 1, Temperatura: 1, Umidità: 38, Qualità dell'aria: 97
+
+Allarme - Sensore: 1, Temperatura: 10, Umidità: 96, Qualità dell'aria: 77
+
+Allarme - Sensore: 1, Temperatura: 6, Umidità: 66, Qualità dell'aria: 88
+
+Allarme - Sensore: 1, Temperatura: 31, Umidità: 37, Qualità dell'aria: 55
+
+Allarme - Sensore: 1, Temperatura: 17, Umidità: 81, Qualità dell'aria: 79
+
+Allarme - Sensore: 1, Temperatura: 21, Umidità: 60, Qualità dell'aria: 73
+
+Allarme - Sensore: 1, Temperatura: 40, Umidità: 67, Qualità dell'aria: 80
+
+Allarme - Sensore: 1, Temperatura: 9, Umidità: 99, Qualità dell'aria: 95
+
+Allarme - Sensore: 1, Temperatura: 9, Umidità: 61, Qualità dell'aria: 91
+
+Allarme - Sensore: 1, Temperatura: 36, Umidità: 67, Qualità dell'aria: 10
+
+Allarme - Sensore: 1, Temperatura: 24, Umidità: 0, Qualità dell'aria: 99
+
+Allarme - Sensore: 1, Temperatura: 48, Umidità: 63, Qualità dell'aria: 25
+
+Allarme - Sensore: 1, Temperatura: 3, Umidità: 76, Qualità dell'aria: 92
+
+Allarme - Sensore: 1, Temperatura: 12, Umidità: 86, Qualità dell'aria: 91
+
+Allarme - Sensore: 1, Temperatura: 3, Umidità: 33, Qualità dell'aria: 71
+
+Allarme - Sensore: 1, Temperatura: 13, Umidità: 58, Qualità dell'aria: 71
+
+Allarme - Sensore: 1, Temperatura: 38, Umidità: 28, Qualità dell'aria: 27
+
+Allarme - Sensore: 1, Temperatura: 3, Umidità: 17, Qualità dell'aria: 97
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 27, Qualità dell'aria: 94
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 61, Qualità dell'aria: 27
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 65, Qualità dell'aria: 46
+
+Allarme - Sensore: 1, Temperatura: 49, Umidità: 42, Qualità dell'aria: 55
+
+Allarme - Sensore: 1, Temperatura: 31, Umidità: 53, Qualità dell'aria: 62
+
+Allarme - Sensore: 1, Temperatura: 40, Umidità: 56, Qualità dell'aria: 31
+
+Allarme - Sensore: 1, Temperatura: 39, Umidità: 54, Qualità dell'aria: 58
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 5, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 3, Umidità: 42, Qualità dell'aria: 84
+
+Allarme - Sensore: 1, Temperatura: 7, Umidità: 4, Qualità dell'aria: 94
+
+Allarme - Sensore: 1, Temperatura: 17, Umidità: 88, Qualità dell'aria: 99
+
+Allarme - Sensore: 1, Temperatura: 10, Umidità: 51, Qualità dell'aria: 79
+
+Allarme - Sensore: 1, Temperatura: 47, Umidità: 3, Qualità dell'aria: 57
+
+Allarme - Sensore: 1, Temperatura: 0, Umidità: 83, Qualità dell'aria: 71
+
+Allarme - Sensore: 1, Temperatura: 15, Umidità: 60, Qualità dell'aria: 93
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 35, Qualità dell'aria: 2
+
+Allarme - Sensore: 1, Temperatura: 4, Umidità: 99, Qualità dell'aria: 65
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 99, Qualità dell'aria: 68
+
+Allarme - Sensore: 1, Temperatura: 45, Umidità: 49, Qualità dell'aria: 3
+
+Allarme - Sensore: 1, Temperatura: 11, Umidità: 39, Qualità dell'aria: 79
+
+Allarme - Sensore: 1, Temperatura: 48, Umidità: 48, Qualità dell'aria: 3
+
+Allarme - Sensore: 1, Temperatura: 26, Umidità: 36, Qualità dell'aria: 91
+
+Allarme - Sensore: 1, Temperatura: 30, Umidità: 55, Qualità dell'aria: 4
+
+Allarme - Sensore: 1, Temperatura: 48, Umidità: 65, Qualità dell'aria: 74
+
+Allarme - Sensore: 1, Temperatura: 36, Umidità: 26, Qualità dell'aria: 63
+
+Allarme - Sensore: 1, Temperatura: 41, Umidità: 39, Qualità dell'aria: 69
+
+Allarme - Sensore: 1, Temperatura: 22, Umidità: 87, Qualità dell'aria: 69
+
+Allarme - Sensore: 1, Temperatura: 47, Umidità: 68, Qualità dell'aria: 0
+
+Allarme - Sensore: 1, Temperatura: 39, Umidità: 30, Qualità dell'aria: 50
+
+Allarme - Sensore: 1, Temperatura: 34, Umidità: 48, Qualità dell'aria: 68
+
+Allarme - Sensore: 1, Temperatura: 24, Umidità: 49, Qualità dell'aria: 75
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 68, Qualità dell'aria: 73
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 91, Qualità dell'aria: 19
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 73, Qualità dell'aria: 86
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 78, Qualità dell'aria: 94
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 67, Qualità dell'aria: 15
+
+Allarme - Sensore: 1, Temperatura: 29, Umidità: 77, Qualità dell'aria: 84
+
+Allarme - Sensore: 1, Temperatura: 49, Umidità: 6, Qualità dell'aria: 71
+
+Allarme - Sensore: 1, Temperatura: 42, Umidità: 50, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 42, Umidità: 60, Qualità dell'aria: 88
+
+Allarme - Sensore: 1, Temperatura: 37, Umidità: 87, Qualità dell'aria: 56
+
+Allarme - Sensore: 1, Temperatura: 43, Umidità: 56, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 25, Umidità: 60, Qualità dell'aria: 71
+
+Allarme - Sensore: 1, Temperatura: 34, Umidità: 9, Qualità dell'aria: 77
+
+Allarme - Sensore: 1, Temperatura: 48, Umidità: 65, Qualità dell'aria: 82
+
+Allarme - Sensore: 1, Temperatura: 34, Umidità: 45, Qualità dell'aria: 68
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 9, Qualità dell'aria: 53
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 53, Qualità dell'aria: 66
+
+Allarme - Sensore: 1, Temperatura: 23, Umidità: 17, Qualità dell'aria: 92
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 4, Qualità dell'aria: 32
+
+Allarme - Sensore: 1, Temperatura: 3, Umidità: 0, Qualità dell'aria: 88
+
+Allarme - Sensore: 1, Temperatura: 45, Umidità: 77, Qualità dell'aria: 0
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 73, Qualità dell'aria: 67
+
+Allarme - Sensore: 1, Temperatura: 24, Umidità: 72, Qualità dell'aria: 84
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 40, Qualità dell'aria: 44
+
+Allarme - Sensore: 1, Temperatura: 42, Umidità: 60, Qualità dell'aria: 18
+
+Allarme - Sensore: 1, Temperatura: 26, Umidità: 13, Qualità dell'aria: 70
+
+Allarme - Sensore: 1, Temperatura: 31, Umidità: 22, Qualità dell'aria: 86
+
+Allarme - Sensore: 1, Temperatura: 37, Umidità: 57, Qualità dell'aria: 66
+
+Allarme - Sensore: 1, Temperatura: 2, Umidità: 17, Qualità dell'aria: 78
+
+Allarme - Sensore: 1, Temperatura: 16, Umidità: 12, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 34, Umidità: 38, Qualità dell'aria: 55
+
+Allarme - Sensore: 1, Temperatura: 30, Umidità: 68, Qualità dell'aria: 59
+
+Allarme - Sensore: 1, Temperatura: 48, Umidità: 0, Qualità dell'aria: 56
+
+Allarme - Sensore: 1, Temperatura: 39, Umidità: 34, Qualità dell'aria: 47
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 90, Qualità dell'aria: 4
+
+Allarme - Sensore: 1, Temperatura: 10, Umidità: 45, Qualità dell'aria: 81
+
+Allarme - Sensore: 1, Temperatura: 37, Umidità: 78, Qualità dell'aria: 8
+
+Allarme - Sensore: 1, Temperatura: 0, Umidità: 37, Qualità dell'aria: 91
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 35, Qualità dell'aria: 91
+
+Allarme - Sensore: 1, Temperatura: 3, Umidità: 76, Qualità dell'aria: 78
+
+Allarme - Sensore: 1, Temperatura: 2, Umidità: 73, Qualità dell'aria: 68
+
+Allarme - Sensore: 1, Temperatura: 8, Umidità: 85, Qualità dell'aria: 66
+
+Allarme - Sensore: 1, Temperatura: 42, Umidità: 91, Qualità dell'aria: 27
+
+Allarme - Sensore: 1, Temperatura: 36, Umidità: 13, Qualità dell'aria: 93
+
+Allarme - Sensore: 1, Temperatura: 43, Umidità: 51, Qualità dell'aria: 23
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 37, Qualità dell'aria: 52
+
+Allarme - Sensore: 1, Temperatura: 39, Umidità: 37, Qualità dell'aria: 89
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 34, Qualità dell'aria: 77
+
+Allarme - Sensore: 1, Temperatura: 38, Umidità: 93, Qualità dell'aria: 6
+
+Allarme - Sensore: 1, Temperatura: 36, Umidità: 79, Qualità dell'aria: 87
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 58, Qualità dell'aria: 39
+
+Allarme - Sensore: 1, Temperatura: 34, Umidità: 33, Qualità dell'aria: 82
+
+Allarme - Sensore: 1, Temperatura: 41, Umidità: 64, Qualità dell'aria: 24
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 62, Qualità dell'aria: 61
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 8, Qualità dell'aria: 71
+
+Allarme - Sensore: 1, Temperatura: 22, Umidità: 12, Qualità dell'aria: 83
+
+Allarme - Sensore: 1, Temperatura: 39, Umidità: 49, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 16, Umidità: 57, Qualità dell'aria: 82
+
+Allarme - Sensore: 1, Temperatura: 9, Umidità: 41, Qualità dell'aria: 76
+
+Allarme - Sensore: 1, Temperatura: 22, Umidità: 84, Qualità dell'aria: 93
+
+Allarme - Sensore: 1, Temperatura: 49, Umidità: 52, Qualità dell'aria: 85
+
+Allarme - Sensore: 1, Temperatura: 39, Umidità: 22, Qualità dell'aria: 8
+
+Allarme - Sensore: 2, Temperatura: 40, Umidità: 17, Qualità dell'aria: 88
+
+Allarme - Sensore: 1, Temperatura: 11, Umidità: 96, Qualità dell'aria: 72
+
+Allarme - Sensore: 2, Temperatura: 22, Umidità: 85, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 44, Umidità: 53, Qualità dell'aria: 71
+
+Allarme - Sensore: 2, Temperatura: 30, Umidità: 66, Qualità dell'aria: 37
+
+Allarme - Sensore: 2, Temperatura: 7, Umidità: 50, Qualità dell'aria: 88
+
+Allarme - Sensore: 1, Temperatura: 37, Umidità: 88, Qualità dell'aria: 20
+
+Allarme - Sensore: 2, Temperatura: 48, Umidità: 34, Qualità dell'aria: 61
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 71, Qualità dell'aria: 50
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 99, Qualità dell'aria: 89
+
+Allarme - Sensore: 1, Temperatura: 33, Umidità: 89, Qualità dell'aria: 11
+
+Allarme - Sensore: 2, Temperatura: 41, Umidità: 18, Qualità dell'aria: 34
+
+Allarme - Sensore: 1, Temperatura: 41, Umidità: 50, Qualità dell'aria: 8
+
+Allarme - Sensore: 2, Temperatura: 33, Umidità: 98, Qualità dell'aria: 1
+
+Allarme - Sensore: 1, Temperatura: 35, Umidità: 10, Qualità dell'aria: 6
+
+Allarme - Sensore: 1, Temperatura: 7, Umidità: 17, Qualità dell'aria: 69
+
+Allarme - Sensore: 2, Temperatura: 16, Umidità: 23, Qualità dell'aria: 90
+
+Allarme - Sensore: 1, Temperatura: 39, Umidità: 6, Qualità dell'aria: 57
+
+Allarme - Sensore: 2, Temperatura: 35, Umidità: 9, Qualità dell'aria: 15
+
+Allarme - Sensore: 1, Temperatura: 23, Umidità: 35, Qualità dell'aria: 82
+
+Allarme - Sensore: 2, Temperatura: 46, Umidità: 81, Qualità dell'aria: 16
+
+Allarme - Sensore: 2, Temperatura: 43, Umidità: 99, Qualità dell'aria: 54
+
+Allarme - Sensore: 2, Temperatura: 42, Umidità: 91, Qualità dell'aria: 72
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 58, Qualità dell'aria: 94
+
+Allarme - Sensore: 1, Temperatura: 46, Umidità: 93, Qualità dell'aria: 56
+
+Allarme - Sensore: 2, Temperatura: 30, Umidità: 99, Qualità dell'aria: 78
+
+Allarme - Sensore: 1, Temperatura: 4, Umidità: 53, Qualità dell'aria: 73
+
+Allarme - Sensore: 2, Temperatura: 33, Umidità: 10, Qualità dell'aria: 53
+
+Allarme - Sensore: 1, Temperatura: 23, Umidità: 42, Qualità dell'aria: 79
+
+Allarme - Sensore: 2, Temperatura: 39, Umidità: 76, Qualità dell'aria: 28
+
+Allarme - Sensore: 1, Temperatura: 32, Umidità: 4, Qualità dell'aria: 10
+
+Allarme - Sensore: 2, Temperatura: 31, Umidità: 55, Qualità dell'aria: 69
+
+Allarme - Sensore: 1, Temperatura: 42, Umidità: 27, Qualità dell'aria: 97
+
